@@ -3,7 +3,7 @@
 Name: beneath-a-steel-sky
 Summary: A adventure game using scummvm
 Version: 1.2
-Release: %mkrel 1
+Release: 2
 Source0: http://prdownloads.sourceforge.net/scummvm/bass-cd-%{version}.tar.bz2
 Source1: bass-48.png
 Source2: bass-32.png
