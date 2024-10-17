@@ -9,7 +9,7 @@ Source1: bass-48.png
 Source2: bass-32.png
 Source3: bass-16.png
 License: Freeware
-Url:     http://scummvm.org
+Url:     https://scummvm.org
 Group:   Games/Adventure
 BuildRequires: unzip
 Requires: scummvm
